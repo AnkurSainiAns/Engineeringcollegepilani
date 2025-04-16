@@ -2,4 +2,6 @@
 my website
 http://engineeringcollegepilani.rf.gd/
 <br>
-Auther - Ankur Saini
+# Shringar - E-Commerce website
+https://shringar.rf.gd/
+Author - Ankur Saini
